@@ -65,3 +65,4 @@ virtualenv-clone==0.5.4
 w3lib==1.22.0
 wrapt==1.12.1
 zope.interface==5.2.0
+whitenoise==5.1.0
